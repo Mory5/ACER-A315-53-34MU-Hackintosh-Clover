@@ -1,4 +1,4 @@
-# ACER-A315-53-34MU-Hackintosh-Clover
+# ACER-Aspire-3-A315-53-34MU-Hackintosh
 * Tested On High Sierra , Mojave , Catalina , Big Sur & Monterey ( Public Update ) .
 
 * Saved For purpose .
