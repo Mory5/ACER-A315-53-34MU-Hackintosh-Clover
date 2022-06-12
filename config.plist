@@ -211,7 +211,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>dart=0 watchdog=0 igfxonln=1 alcid=17 -revsbvmm -wegnoegpu -no_compat_check -vi2c-force-polling</string>
+		<string>dart=0 watchdog=0 igfxonln=1 alcid=17 -revsbvmm
 		<key>CustomLogo</key>
 		<false/>
 		<key>Debug</key>
@@ -848,7 +848,7 @@
 		<key>AppleXcpmForceBoost</key>
 		<false/>
 		<key>AvoidRuntimeDefrag</key>
-		<true/>
+		<false/>
 		<key>DevirtualiseMmio</key>
 		<false/>
 		<key>DisableIoMapper</key>
