@@ -4,7 +4,8 @@
 * Saved For purpose .
 
 
-![Screen Shot 2022-02-23 at 5 17 03 PM](https://user-images.githubusercontent.com/42302310/155349903-b97fd1c6-19f8-4734-9c55-bfceb8e20a12.png)
+![Screen Shot 2022-06-12 at 2 31 46 PM](https://user-images.githubusercontent.com/42302310/173233672-df485fd2-dfbe-4b48-aac4-84f445b04e3a.png)
+
 
 
 
@@ -14,7 +15,7 @@
 | ------------- | ------------- |
 | Computer model  | Acer A315-53-34MU  |
 |  Processor | Intel Core I3-7020U  |
-| Memory  | 8GB/4GB Crucial DDR4-2666 SODIMM  |
+| Memory  | 16GB/4GB Crucial DDR4-2666 SODIMM  |
 | Hard Disk  | Samsung Evo 860 SSD 500 GB  |
 | Integrated Graphic | Intel HD Graphics 620 |
 | Sound Card  | Realtek ALC255  |
