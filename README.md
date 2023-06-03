@@ -29,3 +29,6 @@
 
 # What isn't working
 * Built-in Wifi (Must be replaced)
+
+#Credits
+* Special thanks to Acidanthera for providing AppleALC, AppleSupportPkg, HibernationFixup, Lilu, OpenCorePkg, VirtualSMC, VoodooPS2, and WhateverGreen.
