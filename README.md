@@ -1,4 +1,5 @@
-# ACER Aspire 3 A315 53 34 MU
+# ACER Aspire 3 A315 53 34 MU (Clover)
+
 * Tested On High Sierra, Mojave, Catalina, Big Sur, Monterey & Ventura.
 
 * Saved For purpose .
