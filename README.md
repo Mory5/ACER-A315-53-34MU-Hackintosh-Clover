@@ -1,5 +1,5 @@
 # ACER-Aspire-3-A315-53-34MU-Hackintosh
-* Tested On High Sierra , Mojave , Catalina , Big Sur , Monterey & Ventura.
+* Tested On High Sierra, Mojave, Catalina, Big Sur, Monterey & Ventura.
 
 * Saved For purpose .
 
