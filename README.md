@@ -31,4 +31,7 @@
 * Built-in Wifi (Must be replaced)
 
 #Credits
-* Special thanks to Acidanthera for providing AppleALC, AppleSupportPkg, HibernationFixup, Lilu, OpenCorePkg, VirtualSMC, VoodooPS2, and WhateverGreen.
+* Special thanks to Acidanthera for providing AppleALC, AppleSupportPkg, HibernationFixup, Lilu, VirtualSMC, VoodooPS2, and WhateverGreen.
+* Thanks to daliansky for providing VoodooI2C.
+* Thanks to VoodooI2C for his great work with XiaoMi-Pro-Hackintosh.
+* A huge thanks to the hackintosh community, I couldn't stress enough the support I got to make this a success.
