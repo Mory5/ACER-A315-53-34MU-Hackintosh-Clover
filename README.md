@@ -3,11 +3,7 @@
 
 * Saved For purpose .
 
-
-![Screen Shot 2022-06-12 at 2 31 46 PM](https://user-images.githubusercontent.com/42302310/173233672-df485fd2-dfbe-4b48-aac4-84f445b04e3a.png)
-
-
-
+![Screenshot 2023-06-03 at 11 55 00 AM](https://github.com/Pwn0day/Acer-Aspire-3-A315-53-34-MU-Hackintosh/assets/42302310/bc9c47da-01f9-4eda-9b18-3cf90aa52a74)
 
 # Specification
 
