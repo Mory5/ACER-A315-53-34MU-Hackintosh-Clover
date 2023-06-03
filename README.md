@@ -1,4 +1,4 @@
-# ACER-Aspire-3-A315-53-34MU-Hackintosh
+# ACER Aspire 3 A315 53 34 MU
 * Tested On High Sierra, Mojave, Catalina, Big Sur, Monterey & Ventura.
 
 * Saved For purpose .
