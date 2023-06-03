@@ -30,7 +30,7 @@
 # What isn't working
 * Built-in Wifi (Must be replaced)
 
-#Credits
+# Credits
 * Special thanks to Acidanthera for providing AppleALC, AppleSupportPkg, HibernationFixup, Lilu, VirtualSMC, VoodooPS2, and WhateverGreen.
 * Thanks to daliansky for providing VoodooI2C.
 * Thanks to VoodooI2C for his great work with XiaoMi-Pro-Hackintosh.
